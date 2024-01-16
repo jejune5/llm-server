@@ -1,2 +1,3 @@
-# llm_server
-llm_server
+# llm-server
+简单LLM推理服务
+llm-server
