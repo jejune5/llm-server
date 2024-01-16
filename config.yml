@@ -1,0 +1,7 @@
+# 模型参数
+model_type: qwen
+model_dir: /Users/wu/data/model/llm/Qwen-1_8B-Chat-Int4
+
+# API参数
+api_host: 0.0.0.0
+api_port: 9000
